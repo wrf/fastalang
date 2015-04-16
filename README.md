@@ -10,6 +10,6 @@ This is the gedit langauge definition xml file for FASTA sequence format. This i
 
 4) Use with multiple different FASTA extensions, .fa, .fasta, .faa
 
-5) X is defined as the only univerally unwanted letter, as N can be asparagine in protein sequences
+5) X is defined as the only universally unused letter, as N can be asparagine in protein sequences. Other symbols and numbers that occur in sequences are also highlighted.
 
 In the future one could implement flagging letters that are neither amino acids or ambiguous bases. Non-amino acid letters are BZJOUX, sort of like the French word for jewel. BZJ are used to double up for certain pairs while OU are non-canonical amino acids pyrrolysine selenocysteine. This leaves only X, so the utility is questionable. For nucleotides, the letters are EFIJLOPQYX, of which EFIJLPQY are amino acids, leaving O and X.
