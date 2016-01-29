@@ -1,5 +1,5 @@
 # fastalang
-This is the gedit langauge definition xml file for FASTA sequence format. This is modified (almost completely remade) from another FASTA definition file by Thomas Krahn (2010).
+This is the gedit langauge definition xml file for FASTA sequence format. This is modified (almost completely remade) from another FASTA definition file by Thomas Krahn (2010). Files should be placed in the respective folders in /usr/share/gtksourceview-3.0/, styles/ and language-specs/.
 
 ### Modifications include
 1) Using standard mapping definitions rather than defining colors used by alignment viewers
